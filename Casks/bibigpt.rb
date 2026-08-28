@@ -2,10 +2,10 @@
 # https://bibigpt.co
 
 cask "bibigpt" do
-  version "4.587.0"
+  version "4.588.0"
 
   on_arm do
-    sha256 "13fde02fac1ef3fa54af3e0a55e3c937a60e2a255f87d903cbf305b827540405"
+    sha256 "5b834d466f1f978004752dbcf866013ab4c16222913a371dacefa0299a32d2ca"
     url "https://bibigpt-apps.oss-cn-beijing.aliyuncs.com/desktop-releases/BibiGPT-#{version}-darwin-aarch64.app.tar.gz"
   end
 
